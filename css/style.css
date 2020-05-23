@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(185, 20, 80);
+  font-family: "Roboto" , sans-serif;
+}
+h2 {
+  text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+section {
+  width: 80%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.subsections {
+  background-color: white;
+  height: 400px;
+}
